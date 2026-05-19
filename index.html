@@ -337,11 +337,9 @@ fetch('equipos_colores_capitanes_con_accion.json')
 
         ||
 
-String(person.accion || '')
-  .padStart(4, '0')
-  .includes(
-    value.replace(/^0+/, '').padStart(4, '0')
-  )
+String(person.accion)
+  .toLowerCase()
+  .includes(value)
 
       );
 
