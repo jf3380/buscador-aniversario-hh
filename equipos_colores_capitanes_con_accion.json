@@ -1,0 +1,2660 @@
+[
+  {
+    "team_id": 1,
+    "color": "Azul",
+    "captain": "Jorge Maldonado",
+    "members": [
+      {
+        "accion": "0067",
+        "nombre": "Abraham Barrios"
+      },
+      {
+        "accion": 904,
+        "nombre": "Alaia Rivera"
+      },
+      {
+        "accion": 120,
+        "nombre": "Alanny Canelo"
+      },
+      {
+        "accion": 1784,
+        "nombre": "Aldo Antenucci"
+      },
+      {
+        "accion": 120,
+        "nombre": "Allan Canelo"
+      },
+      {
+        "accion": 918,
+        "nombre": "Alvi Ángulo"
+      },
+      {
+        "accion": 431,
+        "nombre": "Ana Pacheco"
+      },
+      {
+        "accion": "1668 ",
+        "nombre": "Andres Mikelson"
+      },
+      {
+        "accion": null,
+        "nombre": "Andrés Piñón"
+      },
+      {
+        "accion": 14123,
+        "nombre": "Angel Cira"
+      },
+      {
+        "accion": 580,
+        "nombre": "Angel Ramos"
+      },
+      {
+        "accion": "1063",
+        "nombre": "Angel Rojas"
+      },
+      {
+        "accion": "1191",
+        "nombre": "Angela De Hernández"
+      },
+      {
+        "accion": null,
+        "nombre": "Anibal Colmenarez"
+      },
+      {
+        "accion": 470,
+        "nombre": "Annie Materano"
+      },
+      {
+        "accion": 614,
+        "nombre": "⁠Anthony Cairos"
+      },
+      {
+        "accion": "1012",
+        "nombre": "Antonio Cifuentes"
+      },
+      {
+        "accion": "0347",
+        "nombre": "Arcesio Osorio"
+      },
+      {
+        "accion": 1438,
+        "nombre": "Arsenio Rodriguez"
+      },
+      {
+        "accion": 1740,
+        "nombre": "Arturo Faraco"
+      },
+      {
+        "accion": 1299,
+        "nombre": "Barbara Fonnegra"
+      },
+      {
+        "accion": 136,
+        "nombre": "Betty de Fernandez"
+      },
+      {
+        "accion": 810,
+        "nombre": "Camila Gutierrez"
+      },
+      {
+        "accion": 856,
+        "nombre": "Carlos Alberto Perez Diaz"
+      },
+      {
+        "accion": 43,
+        "nombre": "Carmen Pinto"
+      },
+      {
+        "accion": 1913,
+        "nombre": "Daniel Moreu"
+      },
+      {
+        "accion": 1340,
+        "nombre": "Daniela Feo"
+      },
+      {
+        "accion": 606,
+        "nombre": "Daniela Nichols"
+      },
+      {
+        "accion": 136,
+        "nombre": "Edgar Fernandez"
+      },
+      {
+        "accion": 892,
+        "nombre": "Elizabeth Gómez"
+      },
+      {
+        "accion": null,
+        "nombre": "Enrique Villasmil"
+      },
+      {
+        "accion": "0670",
+        "nombre": "Fabricio Salazar"
+      },
+      {
+        "accion": 1454,
+        "nombre": "Francisco Ferrini"
+      },
+      {
+        "accion": "1667",
+        "nombre": "Francisco Javier Tovar"
+      },
+      {
+        "accion": 233,
+        "nombre": "Francisco Sanabria"
+      },
+      {
+        "accion": 1182,
+        "nombre": "Francisco Toro"
+      },
+      {
+        "accion": 1650,
+        "nombre": "Francisco Villalba"
+      },
+      {
+        "accion": 585,
+        "nombre": "Gabriel López"
+      },
+      {
+        "accion": 816,
+        "nombre": "Germaira   Romero"
+      },
+      {
+        "accion": 1436,
+        "nombre": "Giancarlo D'Orazzio"
+      },
+      {
+        "accion": 1321,
+        "nombre": "Gilberto Acosta"
+      },
+      {
+        "accion": 1281,
+        "nombre": "Gloria Garcia de Cedeño"
+      },
+      {
+        "accion": 1771,
+        "nombre": "Gustavo Hernández "
+      },
+      {
+        "accion": 1532,
+        "nombre": "Gustavo Sarmiento"
+      },
+      {
+        "accion": "1299",
+        "nombre": "Herminsul Fonnegra"
+      },
+      {
+        "accion": "0606",
+        "nombre": "Humberto Lopez"
+      },
+      {
+        "accion": "1540",
+        "nombre": "Isabel Corella"
+      },
+      {
+        "accion": 1963,
+        "nombre": "Isidro Maldonado"
+      },
+      {
+        "accion": 457,
+        "nombre": "Ivanna Borges"
+      },
+      {
+        "accion": 998,
+        "nombre": "Jaime Deibis"
+      },
+      {
+        "accion": 1667,
+        "nombre": "Javier Eduardo Tovar"
+      },
+      {
+        "accion": 1646,
+        "nombre": "Jeaneth Sosa"
+      },
+      {
+        "accion": null,
+        "nombre": "Jesus Miguel Suarez"
+      },
+      {
+        "accion": 1095,
+        "nombre": "Jesus Rafael Gamez"
+      },
+      {
+        "accion": "0343",
+        "nombre": "Jesus Velasco"
+      },
+      {
+        "accion": 1667,
+        "nombre": "Jimena Tovar"
+      },
+      {
+        "accion": 1071,
+        "nombre": "Jorge Maldonado"
+      },
+      {
+        "accion": 1368,
+        "nombre": "José Acosta"
+      },
+      {
+        "accion": 316,
+        "nombre": "Jose Calderon"
+      },
+      {
+        "accion": 622,
+        "nombre": "Jose Torres "
+      },
+      {
+        "accion": 1270,
+        "nombre": "Juan Caicedo"
+      },
+      {
+        "accion": 240,
+        "nombre": "Juan Carlos Aragot"
+      },
+      {
+        "accion": 1281,
+        "nombre": "Juan Carlos Cedeño"
+      },
+      {
+        "accion": 624,
+        "nombre": "Juan Contreras"
+      },
+      {
+        "accion": 1161,
+        "nombre": "Juan Gomez"
+      },
+      {
+        "accion": 520,
+        "nombre": "Juan Morales"
+      },
+      {
+        "accion": 1052,
+        "nombre": "Krisbel Linares"
+      },
+      {
+        "accion": 953,
+        "nombre": "Leonardo Acosta"
+      },
+      {
+        "accion": 891,
+        "nombre": "Leonardo Alvarado"
+      },
+      {
+        "accion": "1026",
+        "nombre": "Lizangela Solano"
+      },
+      {
+        "accion": 1675,
+        "nombre": "Loreana Valentina Maldonado"
+      },
+      {
+        "accion": 2662,
+        "nombre": "Luis Aranguren"
+      },
+      {
+        "accion": 292,
+        "nombre": "Luis Belmonte"
+      },
+      {
+        "accion": 388,
+        "nombre": "Luis Castillo"
+      },
+      {
+        "accion": "0089",
+        "nombre": "Luna Quintero"
+      },
+      {
+        "accion": 1586,
+        "nombre": "Luz Marina Antivero"
+      },
+      {
+        "accion": 965,
+        "nombre": "Marcelo Marquez"
+      },
+      {
+        "accion": 1923,
+        "nombre": "Maria Aurora Martinez"
+      },
+      {
+        "accion": "1540",
+        "nombre": "Maria Del Carmen Rodriguez"
+      },
+      {
+        "accion": 1962,
+        "nombre": "Maria Elena Garcia"
+      },
+      {
+        "accion": null,
+        "nombre": "Maria Mendoza"
+      },
+      {
+        "accion": 1069,
+        "nombre": "Maximo Dominguez"
+      },
+      {
+        "accion": 908,
+        "nombre": "Melissa Camacho"
+      },
+      {
+        "accion": "V1250",
+        "nombre": "Melissa Sanchez"
+      },
+      {
+        "accion": 1042,
+        "nombre": "Mirla Becerra"
+      },
+      {
+        "accion": 1508,
+        "nombre": "Moises Caceres"
+      },
+      {
+        "accion": "V442",
+        "nombre": "Napoleon Ecarri"
+      },
+      {
+        "accion": 1281,
+        "nombre": "Natalia Cedeño"
+      },
+      {
+        "accion": "1631",
+        "nombre": "Nelsón Johan Donquis "
+      },
+      {
+        "accion": 817,
+        "nombre": "Nestor Lopez (Hijo)"
+      },
+      {
+        "accion": "V1255",
+        "nombre": "Nieves de Verde"
+      },
+      {
+        "accion": 1119,
+        "nombre": "Orlays Castilla"
+      },
+      {
+        "accion": 1898,
+        "nombre": "Oswaldo Escobar"
+      },
+      {
+        "accion": 1631,
+        "nombre": "Paola Donquis"
+      },
+      {
+        "accion": "0695",
+        "nombre": "Rafael Cadenas"
+      },
+      {
+        "accion": "1115",
+        "nombre": "Rafael Cadenas "
+      },
+      {
+        "accion": 1620,
+        "nombre": "Raul Hernandez "
+      },
+      {
+        "accion": "0905",
+        "nombre": "Reinaldo Castañeda"
+      },
+      {
+        "accion": 1297,
+        "nombre": "Rosalba Quintero"
+      },
+      {
+        "accion": 1434,
+        "nombre": "Salomon Tovar"
+      },
+      {
+        "accion": 1917,
+        "nombre": "Samuel Rengel "
+      },
+      {
+        "accion": 1604,
+        "nombre": "Santiago Rodriguez"
+      },
+      {
+        "accion": "0834",
+        "nombre": "Sebastian Meza"
+      },
+      {
+        "accion": 313,
+        "nombre": "Sebastian Vazquez"
+      },
+      {
+        "accion": 1799,
+        "nombre": "Sergio Pulido"
+      },
+      {
+        "accion": 75,
+        "nombre": "Tatiana Moreu"
+      },
+      {
+        "accion": 1825,
+        "nombre": "Tomas Villasmil"
+      },
+      {
+        "accion": 1026,
+        "nombre": "Valeria Márquez"
+      },
+      {
+        "accion": 1856,
+        "nombre": "Victor Cruz"
+      },
+      {
+        "accion": 238,
+        "nombre": "Victor Diaz"
+      },
+      {
+        "accion": 668,
+        "nombre": "Wilfredo Granadillo"
+      },
+      {
+        "accion": 720,
+        "nombre": "Zully Ramirez"
+      }
+    ]
+  },
+  {
+    "team_id": 2,
+    "color": "Amarillo",
+    "captain": "Leonardo Paez",
+    "members": [
+      {
+        "accion": 813,
+        "nombre": "Adrian Calles"
+      },
+      {
+        "accion": "V1193",
+        "nombre": "Adriana Feo"
+      },
+      {
+        "accion": null,
+        "nombre": "⁠Adriana Izaguirre"
+      },
+      {
+        "accion": 1521,
+        "nombre": "Alan Mendoza Mendoza"
+      },
+      {
+        "accion": 734,
+        "nombre": "Alberto Matos"
+      },
+      {
+        "accion": 982,
+        "nombre": "Albin Marco"
+      },
+      {
+        "accion": 1881,
+        "nombre": "Alejandra Barcasnegras"
+      },
+      {
+        "accion": 327,
+        "nombre": "Alessandra Perez"
+      },
+      {
+        "accion": 982,
+        "nombre": "Alessandra Sánchez"
+      },
+      {
+        "accion": 384,
+        "nombre": "Ana Brito"
+      },
+      {
+        "accion": null,
+        "nombre": "Ana Milanes "
+      },
+      {
+        "accion": "*",
+        "nombre": "Andra Rodriguez"
+      },
+      {
+        "accion": 465,
+        "nombre": "Andres Castellanos"
+      },
+      {
+        "accion": 580,
+        "nombre": "Angelmiro Ramos"
+      },
+      {
+        "accion": "0810",
+        "nombre": "Anilec Linares"
+      },
+      {
+        "accion": 1990,
+        "nombre": "Aranza Colmenarez"
+      },
+      {
+        "accion": "V1193",
+        "nombre": "Arelis Tovar"
+      },
+      {
+        "accion": 779,
+        "nombre": "Ariela Padilla"
+      },
+      {
+        "accion": 349,
+        "nombre": "Arturo Hidalgo"
+      },
+      {
+        "accion": 1561,
+        "nombre": "Arturo Orozco"
+      },
+      {
+        "accion": "0204",
+        "nombre": "Asterio Diaz"
+      },
+      {
+        "accion": "1090",
+        "nombre": "Beranger Ferrín"
+      },
+      {
+        "accion": "0055",
+        "nombre": "Blas Durant"
+      },
+      {
+        "accion": 1351,
+        "nombre": "Branco Kocic"
+      },
+      {
+        "accion": 891,
+        "nombre": "Carla Alvarado"
+      },
+      {
+        "accion": 1325,
+        "nombre": "Carlos Gómez"
+      },
+      {
+        "accion": 1199,
+        "nombre": "Carlos Perdomo"
+      },
+      {
+        "accion": 1206,
+        "nombre": "Carlos Pernia"
+      },
+      {
+        "accion": 142,
+        "nombre": "Cesar Magdaleno"
+      },
+      {
+        "accion": null,
+        "nombre": "Chiquinquira Bartoli"
+      },
+      {
+        "accion": 775,
+        "nombre": "Christian Sira"
+      },
+      {
+        "accion": 783,
+        "nombre": "Claudio Ontiveros JR"
+      },
+      {
+        "accion": 1069,
+        "nombre": "Cristobal Noriega"
+      },
+      {
+        "accion": 1437,
+        "nombre": "Daniel Castillo"
+      },
+      {
+        "accion": 1992,
+        "nombre": "Daniel Palenzuela"
+      },
+      {
+        "accion": 346,
+        "nombre": "Dominga Matute"
+      },
+      {
+        "accion": 876,
+        "nombre": "Dominic Carrasquilla"
+      },
+      {
+        "accion": 846,
+        "nombre": "Edgar Garcia"
+      },
+      {
+        "accion": 946,
+        "nombre": "Edison Quintero"
+      },
+      {
+        "accion": null,
+        "nombre": "Edward Arias"
+      },
+      {
+        "accion": 962,
+        "nombre": "Eirolt Borrego"
+      },
+      {
+        "accion": 1122,
+        "nombre": "Elizabeth Boggiano"
+      },
+      {
+        "accion": 1287,
+        "nombre": "Emilia Izaguirre"
+      },
+      {
+        "accion": 1840,
+        "nombre": "Emilsy Medina"
+      },
+      {
+        "accion": "U1639",
+        "nombre": "Fernando Gonzalez"
+      },
+      {
+        "accion": 1763,
+        "nombre": "Francisco Gonzalez"
+      },
+      {
+        "accion": 246,
+        "nombre": "Francisco Melec"
+      },
+      {
+        "accion": 1962,
+        "nombre": "Gabriel Aponte "
+      },
+      {
+        "accion": 1177,
+        "nombre": "Gabriel Salomon"
+      },
+      {
+        "accion": 1299,
+        "nombre": "Gladys Cordero"
+      },
+      {
+        "accion": 849,
+        "nombre": "Haydee Ferrer"
+      },
+      {
+        "accion": null,
+        "nombre": "Hector Hurtado "
+      },
+      {
+        "accion": 1269,
+        "nombre": "Hector Olmo"
+      },
+      {
+        "accion": 1269,
+        "nombre": "Héctor Olmo"
+      },
+      {
+        "accion": 614,
+        "nombre": "⁠Helen Baham"
+      },
+      {
+        "accion": 503,
+        "nombre": "Hildemar Castañeda"
+      },
+      {
+        "accion": "0409",
+        "nombre": "Israel Lorenzo"
+      },
+      {
+        "accion": 1269,
+        "nombre": "Jaime Garcia"
+      },
+      {
+        "accion": "0135",
+        "nombre": "Jaime Niño"
+      },
+      {
+        "accion": 1145,
+        "nombre": "Jesus Palacios"
+      },
+      {
+        "accion": 1603,
+        "nombre": "Jesus Zambrano"
+      },
+      {
+        "accion": 810,
+        "nombre": "Jose Antonio Gutierrez"
+      },
+      {
+        "accion": 1975,
+        "nombre": "Jose ElBassi"
+      },
+      {
+        "accion": "0833",
+        "nombre": "José Fernandez"
+      },
+      {
+        "accion": null,
+        "nombre": "José García "
+      },
+      {
+        "accion": 1489,
+        "nombre": "Jose Manuel Soto"
+      },
+      {
+        "accion": 1155,
+        "nombre": "Jose Navarro"
+      },
+      {
+        "accion": 284,
+        "nombre": "Jose Pacheco"
+      },
+      {
+        "accion": 53,
+        "nombre": "Jose Uribe"
+      },
+      {
+        "accion": 1990,
+        "nombre": "Juan C Colmenarez (Hijo)"
+      },
+      {
+        "accion": 390,
+        "nombre": "Juan Diego Morales"
+      },
+      {
+        "accion": "0274",
+        "nombre": "Juan Garcia"
+      },
+      {
+        "accion": 1858,
+        "nombre": "Julio Bordones"
+      },
+      {
+        "accion": 1713,
+        "nombre": "Karla Moreno"
+      },
+      {
+        "accion": 1095,
+        "nombre": "Katherina Gamez"
+      },
+      {
+        "accion": "V1193",
+        "nombre": "Katherine Briceño"
+      },
+      {
+        "accion": 1052,
+        "nombre": "Leidy González"
+      },
+      {
+        "accion": 891,
+        "nombre": "Leonardo Alvarado"
+      },
+      {
+        "accion": "0184 ",
+        "nombre": "Leonardo Paez"
+      },
+      {
+        "accion": 76,
+        "nombre": "Leoner Perdomo Villegas"
+      },
+      {
+        "accion": 1270,
+        "nombre": "Luis Felipe Caicedo"
+      },
+      {
+        "accion": 1018,
+        "nombre": "Luisana Marcano"
+      },
+      {
+        "accion": 1956,
+        "nombre": "Maria Cristina Rodriguez"
+      },
+      {
+        "accion": 148,
+        "nombre": "Marieddy Segovia"
+      },
+      {
+        "accion": 787,
+        "nombre": "Marlys Aguilar"
+      },
+      {
+        "accion": 1174,
+        "nombre": "Mathias Jose Moreno"
+      },
+      {
+        "accion": 385,
+        "nombre": "Melani Moreno"
+      },
+      {
+        "accion": 1489,
+        "nombre": "Mia Valentina Piñango"
+      },
+      {
+        "accion": "0707",
+        "nombre": "Miguel Alejandro Chacon Rangel"
+      },
+      {
+        "accion": "0752",
+        "nombre": "Miguel Alejandro Jimenez"
+      },
+      {
+        "accion": 291,
+        "nombre": "Miguel Figueroa"
+      },
+      {
+        "accion": "0343",
+        "nombre": "Miguel Velasco"
+      },
+      {
+        "accion": 442,
+        "nombre": "Miguel Wadskier"
+      },
+      {
+        "accion": 1631,
+        "nombre": "Nelson Aaron Donquis Jiménez"
+      },
+      {
+        "accion": "1312",
+        "nombre": "Nelson Betancourt"
+      },
+      {
+        "accion": "0670",
+        "nombre": "Octavio Salazar"
+      },
+      {
+        "accion": "0994",
+        "nombre": "Osman Cardenas"
+      },
+      {
+        "accion": 1191,
+        "nombre": "Oswaldo Tortolero"
+      },
+      {
+        "accion": 1693,
+        "nombre": "Paola Silva"
+      },
+      {
+        "accion": 142,
+        "nombre": "Pedro Magdaleno Jr."
+      },
+      {
+        "accion": 46,
+        "nombre": "Pedro Medina"
+      },
+      {
+        "accion": 913,
+        "nombre": "Rafael Ocanto"
+      },
+      {
+        "accion": 1793,
+        "nombre": "Ramel Aragort"
+      },
+      {
+        "accion": 1250,
+        "nombre": "Ramon Carrillo"
+      },
+      {
+        "accion": "0787",
+        "nombre": "Ricardo Jose Aponte"
+      },
+      {
+        "accion": "1297",
+        "nombre": "Rosalba Quintero"
+      },
+      {
+        "accion": "V333",
+        "nombre": "Samuel Dania"
+      },
+      {
+        "accion": 520,
+        "nombre": "Sophia Del Pino"
+      },
+      {
+        "accion": 1978,
+        "nombre": "Victor Hugo Quintero"
+      },
+      {
+        "accion": 915,
+        "nombre": "Victor Poggioli"
+      },
+      {
+        "accion": 1913,
+        "nombre": "Victoria Moreu"
+      },
+      {
+        "accion": 848,
+        "nombre": "Yeni Ojeda"
+      },
+      {
+        "accion": 352,
+        "nombre": "Yonathan Barreto"
+      }
+    ]
+  },
+  {
+    "team_id": 3,
+    "color": "Verde",
+    "captain": "Peggy Marquez",
+    "members": [
+      {
+        "accion": 353,
+        "nombre": "Aaron Malgarejo"
+      },
+      {
+        "accion": 1250,
+        "nombre": "Adriana Carrillo"
+      },
+      {
+        "accion": "0619",
+        "nombre": "Alberto Lombardo"
+      },
+      {
+        "accion": 307,
+        "nombre": "Anabella Monzon"
+      },
+      {
+        "accion": 1008,
+        "nombre": "Anastasia Guadarrama"
+      },
+      {
+        "accion": 939,
+        "nombre": "Andy Silva "
+      },
+      {
+        "accion": 245,
+        "nombre": "Angelica Collado"
+      },
+      {
+        "accion": 306,
+        "nombre": "Anna Acosta"
+      },
+      {
+        "accion": 729,
+        "nombre": "Antonio Carruyo"
+      },
+      {
+        "accion": 1171,
+        "nombre": "Antonio Ramirez"
+      },
+      {
+        "accion": 982,
+        "nombre": "Arantxa Marcó"
+      },
+      {
+        "accion": 1513,
+        "nombre": "Aroldo Souto"
+      },
+      {
+        "accion": 405,
+        "nombre": "Braulio Meza"
+      },
+      {
+        "accion": 1923,
+        "nombre": "Carlos Martinez "
+      },
+      {
+        "accion": 1923,
+        "nombre": "Carlos Martinez Cardenas"
+      },
+      {
+        "accion": 1340,
+        "nombre": "Carlota Pedroza"
+      },
+      {
+        "accion": 306,
+        "nombre": "Carolina Laya"
+      },
+      {
+        "accion": "1115",
+        "nombre": "Clarissa Cadenas"
+      },
+      {
+        "accion": 1118,
+        "nombre": "Cris de Laine"
+      },
+      {
+        "accion": 334,
+        "nombre": "Cristhian Blanquicett"
+      },
+      {
+        "accion": 891,
+        "nombre": "Cristiano Alvarado"
+      },
+      {
+        "accion": 695,
+        "nombre": "Cristopher Noguera "
+      },
+      {
+        "accion": 1513,
+        "nombre": "Daniel Souto"
+      },
+      {
+        "accion": 1100,
+        "nombre": "Danny Teppa"
+      },
+      {
+        "accion": 1603,
+        "nombre": "Deisi Mirabal"
+      },
+      {
+        "accion": 306,
+        "nombre": "Diego Acosta"
+      },
+      {
+        "accion": 1205,
+        "nombre": "Douglas Surga"
+      },
+      {
+        "accion": 187,
+        "nombre": "Eduardo Bello"
+      },
+      {
+        "accion": 3,
+        "nombre": "Eduardo Betancourt"
+      },
+      {
+        "accion": 1646,
+        "nombre": "Eduardo Ortega"
+      },
+      {
+        "accion": 1006,
+        "nombre": "Elba Hermosilla"
+      },
+      {
+        "accion": "0404",
+        "nombre": "Elena Spano"
+      },
+      {
+        "accion": 941,
+        "nombre": "Ender Goicochea"
+      },
+      {
+        "accion": 915,
+        "nombre": "Ernesto Poggioli"
+      },
+      {
+        "accion": 1438,
+        "nombre": "Eylin Gonzalez"
+      },
+      {
+        "accion": 1603,
+        "nombre": "Ezequiel Zambrano"
+      },
+      {
+        "accion": 1469,
+        "nombre": "Fabio Franco"
+      },
+      {
+        "accion": 726,
+        "nombre": "Feliz Cohen"
+      },
+      {
+        "accion": 365,
+        "nombre": "Fernando Alfonzo"
+      },
+      {
+        "accion": 243,
+        "nombre": "Gabriel Barcenas"
+      },
+      {
+        "accion": 1917,
+        "nombre": "Gabriel Rengel "
+      },
+      {
+        "accion": 1177,
+        "nombre": "Gabriel Salomon"
+      },
+      {
+        "accion": 431,
+        "nombre": "Gerardo Pacheco"
+      },
+      {
+        "accion": 243,
+        "nombre": "Gergen Barcenas"
+      },
+      {
+        "accion": 959,
+        "nombre": "Gianfranco Pigorini"
+      },
+      {
+        "accion": 190,
+        "nombre": "Gorka Diaz"
+      },
+      {
+        "accion": "1538",
+        "nombre": "Hector Inojosa"
+      },
+      {
+        "accion": 659,
+        "nombre": "Henry Reyes"
+      },
+      {
+        "accion": "0535",
+        "nombre": "Jaime Medina"
+      },
+      {
+        "accion": 955,
+        "nombre": "Javier Perez"
+      },
+      {
+        "accion": "0435",
+        "nombre": "Jeremias Rodríguez"
+      },
+      {
+        "accion": "0079",
+        "nombre": "Jesús Barcasnegras "
+      },
+      {
+        "accion": 1710,
+        "nombre": "Johan Den Heijer"
+      },
+      {
+        "accion": "0613",
+        "nombre": "Johanna Figueroa"
+      },
+      {
+        "accion": 514,
+        "nombre": "Jorge Flores"
+      },
+      {
+        "accion": "U0768",
+        "nombre": "Jorge Materano"
+      },
+      {
+        "accion": null,
+        "nombre": "⁠Jose Alexander Machado"
+      },
+      {
+        "accion": 43,
+        "nombre": "Jose Arteaga"
+      },
+      {
+        "accion": "1008",
+        "nombre": "Jose Guadarrama"
+      },
+      {
+        "accion": 1906,
+        "nombre": "Jose Rodriguez"
+      },
+      {
+        "accion": 1582,
+        "nombre": "José Vicente Montenegro"
+      },
+      {
+        "accion": 240,
+        "nombre": "Juan Alejandro Aragort "
+      },
+      {
+        "accion": 1990,
+        "nombre": "Juan C Colmenarez"
+      },
+      {
+        "accion": 1655,
+        "nombre": "Juan Martin"
+      },
+      {
+        "accion": 1603,
+        "nombre": "Juan Zambrano"
+      },
+      {
+        "accion": 644,
+        "nombre": "Karen Vergara"
+      },
+      {
+        "accion": 964,
+        "nombre": "Leonardo Rojas"
+      },
+      {
+        "accion": 726,
+        "nombre": "Lisbeth Cohen"
+      },
+      {
+        "accion": null,
+        "nombre": "Lorenzo Mauro"
+      },
+      {
+        "accion": 1357,
+        "nombre": "Lorner Flores"
+      },
+      {
+        "accion": 892,
+        "nombre": "Luis Eduardo Gomez"
+      },
+      {
+        "accion": 1296,
+        "nombre": "Luis Mohamed"
+      },
+      {
+        "accion": 659,
+        "nombre": "Luisimar Torres"
+      },
+      {
+        "accion": 1611,
+        "nombre": "Magale Rodríguez"
+      },
+      {
+        "accion": 1696,
+        "nombre": "Mahmoud Alhajali"
+      },
+      {
+        "accion": 702,
+        "nombre": "María F. Muñoz"
+      },
+      {
+        "accion": 1771,
+        "nombre": "María Fernanda Suárez "
+      },
+      {
+        "accion": 1660,
+        "nombre": "Maria Gabriela Tovar Rojas"
+      },
+      {
+        "accion": 921,
+        "nombre": "María Laura Cedeño"
+      },
+      {
+        "accion": 376,
+        "nombre": "Maria Mendez"
+      },
+      {
+        "accion": 251,
+        "nombre": "Mariangel Aular"
+      },
+      {
+        "accion": 1387,
+        "nombre": "Marie Salas"
+      },
+      {
+        "accion": 816,
+        "nombre": "Mia Aquino"
+      },
+      {
+        "accion": 1870,
+        "nombre": "Miller Marquez"
+      },
+      {
+        "accion": "V1192",
+        "nombre": "Neyda Marín"
+      },
+      {
+        "accion": 507,
+        "nombre": "Omar Hernandez"
+      },
+      {
+        "accion": 1161,
+        "nombre": "Onexis Mezzoni"
+      },
+      {
+        "accion": 339,
+        "nombre": "Oswaldo Gonzalez"
+      },
+      {
+        "accion": 58,
+        "nombre": "Oswaldo Pesliaska"
+      },
+      {
+        "accion": null,
+        "nombre": "Patricia Barrios"
+      },
+      {
+        "accion": 226,
+        "nombre": "Pedro Colmenarez"
+      },
+      {
+        "accion": 1287,
+        "nombre": "Pedro Jose Medina"
+      },
+      {
+        "accion": 142,
+        "nombre": "Pedro Magdaleno Sr."
+      },
+      {
+        "accion": "1357",
+        "nombre": "Peggy Marquez"
+      },
+      {
+        "accion": "U1151",
+        "nombre": "Rafael Cordova"
+      },
+      {
+        "accion": 1503,
+        "nombre": "Rommel Herrera"
+      },
+      {
+        "accion": 1300,
+        "nombre": "Roxana Kakeff"
+      },
+      {
+        "accion": 1660,
+        "nombre": "Solvey Duarte"
+      },
+      {
+        "accion": 1059,
+        "nombre": "Sonia Brown"
+      },
+      {
+        "accion": 1644,
+        "nombre": "Suimara Monasterio"
+      },
+      {
+        "accion": 1071,
+        "nombre": "Tata Mata"
+      },
+      {
+        "accion": "1535",
+        "nombre": "Urdelvis Franco"
+      },
+      {
+        "accion": 606,
+        "nombre": "Valeria Gomez"
+      },
+      {
+        "accion": 1604,
+        "nombre": "Vicente Rodriguez"
+      },
+      {
+        "accion": 1026,
+        "nombre": "Victor Márquez"
+      },
+      {
+        "accion": 507,
+        "nombre": "Victoria Moncada"
+      },
+      {
+        "accion": 1910,
+        "nombre": "Walter Hidalgo"
+      },
+      {
+        "accion": 1005,
+        "nombre": "William Herrera"
+      },
+      {
+        "accion": 1513,
+        "nombre": "Yajaira Tovar"
+      },
+      {
+        "accion": 702,
+        "nombre": "Yosmar Muñoz"
+      },
+      {
+        "accion": 713,
+        "nombre": "Zoe Durvelle"
+      }
+    ]
+  },
+  {
+    "team_id": 4,
+    "color": "Rosado",
+    "captain": "Manuel Quero",
+    "members": [
+      {
+        "accion": "H0801",
+        "nombre": "Adriana Salvini"
+      },
+      {
+        "accion": 1715,
+        "nombre": "Ainara Torrentnegros"
+      },
+      {
+        "accion": 430,
+        "nombre": "Alejandro Takahashi"
+      },
+      {
+        "accion": 451,
+        "nombre": "Alfonso Bonilla"
+      },
+      {
+        "accion": null,
+        "nombre": "Andres Gomez "
+      },
+      {
+        "accion": 810,
+        "nombre": "Anna Sofia Gutierrez"
+      },
+      {
+        "accion": 67,
+        "nombre": "Annie Ani Evies"
+      },
+      {
+        "accion": 136,
+        "nombre": "Anthonella Arcilas"
+      },
+      {
+        "accion": 1653,
+        "nombre": "Antonio Moron "
+      },
+      {
+        "accion": "1064",
+        "nombre": "Antonio Ortega"
+      },
+      {
+        "accion": "V1271",
+        "nombre": "Antonio Ramirez"
+      },
+      {
+        "accion": 614,
+        "nombre": "⁠Aralyn Cairos"
+      },
+      {
+        "accion": 1140,
+        "nombre": "Arnaldo Escalona"
+      },
+      {
+        "accion": 726,
+        "nombre": "Barbara Cohen"
+      },
+      {
+        "accion": "V1026",
+        "nombre": "Belkys Gomez"
+      },
+      {
+        "accion": 891,
+        "nombre": "Camila Alvarado"
+      },
+      {
+        "accion": 651,
+        "nombre": "Camila Calles "
+      },
+      {
+        "accion": 227,
+        "nombre": "Carlos Abreu "
+      },
+      {
+        "accion": 1226,
+        "nombre": "Carlos Arismendi "
+      },
+      {
+        "accion": 856,
+        "nombre": "Carlos Perez P"
+      },
+      {
+        "accion": 608,
+        "nombre": "Carlos Rodriguez"
+      },
+      {
+        "accion": 1115,
+        "nombre": "Ciara Cadenas"
+      },
+      {
+        "accion": 783,
+        "nombre": "Claudio Ontiveros"
+      },
+      {
+        "accion": 385,
+        "nombre": "Daniel Moreno "
+      },
+      {
+        "accion": 1913,
+        "nombre": "Daniel Moreu"
+      },
+      {
+        "accion": 817,
+        "nombre": "Daniela López"
+      },
+      {
+        "accion": 600,
+        "nombre": "Dany Torres"
+      },
+      {
+        "accion": 768,
+        "nombre": "Darwin Peña"
+      },
+      {
+        "accion": 816,
+        "nombre": "Diego Aquino"
+      },
+      {
+        "accion": 1960,
+        "nombre": "Eduardo Alberto Hidalgo"
+      },
+      {
+        "accion": 279,
+        "nombre": "Eliana Flores"
+      },
+      {
+        "accion": 280,
+        "nombre": "Ernesto Sira"
+      },
+      {
+        "accion": 565,
+        "nombre": "Ezequiel Zamora"
+      },
+      {
+        "accion": 1541,
+        "nombre": "Florangel Navarro"
+      },
+      {
+        "accion": "1502",
+        "nombre": "Francisco Noriega"
+      },
+      {
+        "accion": 1825,
+        "nombre": "Gabriela Villasmil"
+      },
+      {
+        "accion": "0958",
+        "nombre": "Genizor Chacha"
+      },
+      {
+        "accion": 1300,
+        "nombre": "Gianpiero Trasolini"
+      },
+      {
+        "accion": 347,
+        "nombre": "Gilberti Peñuela"
+      },
+      {
+        "accion": 1195,
+        "nombre": "Glen Sochasckyj"
+      },
+      {
+        "accion": null,
+        "nombre": "Gonzalo Acosta"
+      },
+      {
+        "accion": 1855,
+        "nombre": "Gregory Cedeño"
+      },
+      {
+        "accion": 606,
+        "nombre": "Gustavo Gomez"
+      },
+      {
+        "accion": "0743",
+        "nombre": "Hugo Hidalgo"
+      },
+      {
+        "accion": null,
+        "nombre": "Ivan Inciarte"
+      },
+      {
+        "accion": 1710,
+        "nombre": "Ivanna Den Heijer"
+      },
+      {
+        "accion": "0613",
+        "nombre": "Janeth Villanueva"
+      },
+      {
+        "accion": 1683,
+        "nombre": "Jassmin Verde"
+      },
+      {
+        "accion": 1118,
+        "nombre": "Jean Carlos Paez"
+      },
+      {
+        "accion": 1061,
+        "nombre": "Jesus Gutierrez"
+      },
+      {
+        "accion": "0207",
+        "nombre": "Joel Mendoza"
+      },
+      {
+        "accion": 1122,
+        "nombre": "Jose Boggilano"
+      },
+      {
+        "accion": 116,
+        "nombre": "Jose Ybarra"
+      },
+      {
+        "accion": 1881,
+        "nombre": "Juan Carlos Barcasnegras"
+      },
+      {
+        "accion": 1270,
+        "nombre": "Juan Ignacio Caicedo"
+      },
+      {
+        "accion": 1799,
+        "nombre": "Juan Pulido"
+      },
+      {
+        "accion": 2,
+        "nombre": "Juan Solozarno "
+      },
+      {
+        "accion": "1172",
+        "nombre": "Leida Rincon"
+      },
+      {
+        "accion": "0854",
+        "nombre": "Leoncio Toledo"
+      },
+      {
+        "accion": 1417,
+        "nombre": "Lorenzo Danielle"
+      },
+      {
+        "accion": "0965",
+        "nombre": "Lueibys Alvarez"
+      },
+      {
+        "accion": 1536,
+        "nombre": "Luis Gerardo Messina"
+      },
+      {
+        "accion": 1191,
+        "nombre": "Manuel Hernendez"
+      },
+      {
+        "accion": 908,
+        "nombre": "Manuel Quero"
+      },
+      {
+        "accion": "0984",
+        "nombre": "Marcel Adrian Mendoza"
+      },
+      {
+        "accion": "1297",
+        "nombre": "Marceliano Cuesta"
+      },
+      {
+        "accion": 116,
+        "nombre": "Mardely de Jesús Ybarra F"
+      },
+      {
+        "accion": 1913,
+        "nombre": "Maria Alejandra Rodriguez"
+      },
+      {
+        "accion": 1660,
+        "nombre": "Maria Fernanda Tovar Rojas"
+      },
+      {
+        "accion": 1913,
+        "nombre": "Maria Moreu"
+      },
+      {
+        "accion": 1459,
+        "nombre": "Maria Veronica Iñiguez"
+      },
+      {
+        "accion": 419,
+        "nombre": "Marielba Guerra"
+      },
+      {
+        "accion": 1740,
+        "nombre": "Marlon Faraco"
+      },
+      {
+        "accion": 1387,
+        "nombre": "Martina Salas"
+      },
+      {
+        "accion": 1169,
+        "nombre": "Marynell Emily Perez"
+      },
+      {
+        "accion": "0707",
+        "nombre": "Matias Sebastian Chacón"
+      },
+      {
+        "accion": 1199,
+        "nombre": "Mauricio Perdomo"
+      },
+      {
+        "accion": "0670",
+        "nombre": "Mauricio Salazar"
+      },
+      {
+        "accion": 563,
+        "nombre": "Michael Barreto "
+      },
+      {
+        "accion": 1956,
+        "nombre": "Miguel A. Rodriguez "
+      },
+      {
+        "accion": 1710,
+        "nombre": "Nathaly Martel"
+      },
+      {
+        "accion": "1631",
+        "nombre": "Nelsón Donquis "
+      },
+      {
+        "accion": 343,
+        "nombre": "Olga Sierra"
+      },
+      {
+        "accion": "0813",
+        "nombre": "Onirme Calles"
+      },
+      {
+        "accion": 593,
+        "nombre": "Oscar Andres Rodriguez"
+      },
+      {
+        "accion": 1018,
+        "nombre": "Oscar Guerra"
+      },
+      {
+        "accion": 593,
+        "nombre": "Oscar Rodriguez "
+      },
+      {
+        "accion": 1911,
+        "nombre": "Pedro Morillo"
+      },
+      {
+        "accion": 1126,
+        "nombre": "Rafael Escalona"
+      },
+      {
+        "accion": null,
+        "nombre": "Ramon Tirado"
+      },
+      {
+        "accion": 1172,
+        "nombre": "Regulo Perez"
+      },
+      {
+        "accion": 147,
+        "nombre": "Roberto Betancourt"
+      },
+      {
+        "accion": 1043,
+        "nombre": "Rolando Montero"
+      },
+      {
+        "accion": 1416,
+        "nombre": "Romer Perez"
+      },
+      {
+        "accion": 427,
+        "nombre": "Ruben Blasco"
+      },
+      {
+        "accion": 1155,
+        "nombre": "Santiago Navarro"
+      },
+      {
+        "accion": 520,
+        "nombre": "Sophia Delpino Sanell"
+      },
+      {
+        "accion": 1125,
+        "nombre": "Tomas Tavarez"
+      },
+      {
+        "accion": 1567,
+        "nombre": "Tulio Nuñez"
+      },
+      {
+        "accion": 955,
+        "nombre": "Veronica Ramirez"
+      },
+      {
+        "accion": "V1172",
+        "nombre": "Willman Alvarado"
+      },
+      {
+        "accion": 1391,
+        "nombre": "Wilmen Rodriguez"
+      },
+      {
+        "accion": 965,
+        "nombre": "Wilmer Marquez Jr."
+      },
+      {
+        "accion": 1126,
+        "nombre": "Yeseida Peraza "
+      },
+      {
+        "accion": null,
+        "nombre": "Yixandra España"
+      },
+      {
+        "accion": "0848",
+        "nombre": "Yoel Yejan"
+      }
+    ]
+  },
+  {
+    "team_id": 5,
+    "color": "Naranja",
+    "captain": "Jose Miguel Moreu",
+    "members": [
+      {
+        "accion": 283,
+        "nombre": "Adolfo Sandoval"
+      },
+      {
+        "accion": 516,
+        "nombre": "Alejandro Diaz"
+      },
+      {
+        "accion": 152,
+        "nombre": "Alexander Aragoza"
+      },
+      {
+        "accion": 1342,
+        "nombre": "Alexi Hurtado"
+      },
+      {
+        "accion": 1488,
+        "nombre": "Andrea Albornoz Albornoz"
+      },
+      {
+        "accion": 238,
+        "nombre": "Andrea Diaz"
+      },
+      {
+        "accion": 1815,
+        "nombre": "Andres Alvarez"
+      },
+      {
+        "accion": 384,
+        "nombre": "Annabella Pinto"
+      },
+      {
+        "accion": 1,
+        "nombre": "Aquiles Garcia"
+      },
+      {
+        "accion": 1533,
+        "nombre": "Armando pimentel "
+      },
+      {
+        "accion": 1881,
+        "nombre": "Aymara de Barcasnegras"
+      },
+      {
+        "accion": 230,
+        "nombre": "Bernardo Milanes"
+      },
+      {
+        "accion": 1981,
+        "nombre": "Camila Barcasnegras"
+      },
+      {
+        "accion": 390,
+        "nombre": "Carla Diaz"
+      },
+      {
+        "accion": 1631,
+        "nombre": "Carla Jiménez"
+      },
+      {
+        "accion": 427,
+        "nombre": "Carlos Di maggio Blasco"
+      },
+      {
+        "accion": "H695",
+        "nombre": "Carlos Vilancha"
+      },
+      {
+        "accion": 259,
+        "nombre": "Carolina Baptista"
+      },
+      {
+        "accion": 414,
+        "nombre": "Carolina Fernandez"
+      },
+      {
+        "accion": 493,
+        "nombre": "César Ángulo"
+      },
+      {
+        "accion": 748,
+        "nombre": "Corangel Salas"
+      },
+      {
+        "accion": 734,
+        "nombre": "Cristhina Matos"
+      },
+      {
+        "accion": 1622,
+        "nombre": "Daniel Mago"
+      },
+      {
+        "accion": 1026,
+        "nombre": "Daniel Marquez"
+      },
+      {
+        "accion": 1170,
+        "nombre": "Delis Argüelles"
+      },
+      {
+        "accion": 1155,
+        "nombre": "Diego Fernández"
+      },
+      {
+        "accion": 1053,
+        "nombre": "Dimas Rojas"
+      },
+      {
+        "accion": 1265,
+        "nombre": "Edgar Guedez"
+      },
+      {
+        "accion": 187,
+        "nombre": "Eduardo Bello"
+      },
+      {
+        "accion": 1026,
+        "nombre": "Eduardo Hidalgo"
+      },
+      {
+        "accion": 768,
+        "nombre": "Endry Peña"
+      },
+      {
+        "accion": 1784,
+        "nombre": "Fabiola Siso"
+      },
+      {
+        "accion": "0183",
+        "nombre": "Fadi Chozlan"
+      },
+      {
+        "accion": 1707,
+        "nombre": "Francisco Javier Carmona Valor"
+      },
+      {
+        "accion": 1412,
+        "nombre": "Freddy Perez"
+      },
+      {
+        "accion": 563,
+        "nombre": "Gabriela Molina"
+      },
+      {
+        "accion": 1825,
+        "nombre": "Genesis Villasmil"
+      },
+      {
+        "accion": 33,
+        "nombre": "⁠Gerardo Medina"
+      },
+      {
+        "accion": "0965",
+        "nombre": "Gregoria Villegas"
+      },
+      {
+        "accion": 1250,
+        "nombre": "Guillermo Marchan"
+      },
+      {
+        "accion": 1192,
+        "nombre": "Hector Salvador Ortiz"
+      },
+      {
+        "accion": 1850,
+        "nombre": "Ibai Chinchilla"
+      },
+      {
+        "accion": 1850,
+        "nombre": "Igor Chinchilla "
+      },
+      {
+        "accion": 904,
+        "nombre": "Iñaki Rivera Rivera"
+      },
+      {
+        "accion": 327,
+        "nombre": "Isabella Perez"
+      },
+      {
+        "accion": 803,
+        "nombre": "Jaime Rolinson"
+      },
+      {
+        "accion": 496,
+        "nombre": "Jamal Aboutaif"
+      },
+      {
+        "accion": 1233,
+        "nombre": "Jesús Gabriel Matute"
+      },
+      {
+        "accion": 43,
+        "nombre": "Jocymar Briceño"
+      },
+      {
+        "accion": 644,
+        "nombre": "Jorge Vergara"
+      },
+      {
+        "accion": 414,
+        "nombre": "Jose Avilio Villamizar"
+      },
+      {
+        "accion": 734,
+        "nombre": "Jose Matos "
+      },
+      {
+        "accion": 75,
+        "nombre": "Jose Miguel Moreu"
+      },
+      {
+        "accion": 1409,
+        "nombre": "Jose Morales"
+      },
+      {
+        "accion": 1319,
+        "nombre": "Jose Suarez"
+      },
+      {
+        "accion": 1078,
+        "nombre": "Joselin Caldera"
+      },
+      {
+        "accion": 1981,
+        "nombre": "Juan Barcasnegras"
+      },
+      {
+        "accion": 1713,
+        "nombre": "Juan Carlos Moreno"
+      },
+      {
+        "accion": 532,
+        "nombre": "Juan Morales"
+      },
+      {
+        "accion": 165,
+        "nombre": "Julio César Brandt"
+      },
+      {
+        "accion": 1082,
+        "nombre": "Leonar Coronel"
+      },
+      {
+        "accion": "H0752",
+        "nombre": "Leopoldo Sánchez"
+      },
+      {
+        "accion": 84,
+        "nombre": "Luis Contreras"
+      },
+      {
+        "accion": 47,
+        "nombre": "Luis Santana"
+      },
+      {
+        "accion": 442,
+        "nombre": "Luis Wadskier"
+      },
+      {
+        "accion": 735,
+        "nombre": "Manuel Moran "
+      },
+      {
+        "accion": 283,
+        "nombre": "Marcelo Sandoval"
+      },
+      {
+        "accion": 1989,
+        "nombre": "Marco Fermin"
+      },
+      {
+        "accion": 1271,
+        "nombre": "Maria Eugenia Brito"
+      },
+      {
+        "accion": null,
+        "nombre": "Maria Jose Suarez"
+      },
+      {
+        "accion": 613,
+        "nombre": "Maria Peña"
+      },
+      {
+        "accion": 1728,
+        "nombre": "Maria Tucci"
+      },
+      {
+        "accion": 1784,
+        "nombre": "Mario Antenuchi"
+      },
+      {
+        "accion": 1917,
+        "nombre": "Marlices Piña"
+      },
+      {
+        "accion": 388,
+        "nombre": "Melexis Araque"
+      },
+      {
+        "accion": 579,
+        "nombre": "Melisa Guzmán"
+      },
+      {
+        "accion": 1250,
+        "nombre": "Melissa Carrillo"
+      },
+      {
+        "accion": " 0291",
+        "nombre": "Miguel Figueroa Jr."
+      },
+      {
+        "accion": 1432,
+        "nombre": "Mikhael Barmaksoz"
+      },
+      {
+        "accion": "1357",
+        "nombre": "Mirna Gonzalez"
+      },
+      {
+        "accion": 1357,
+        "nombre": "Misael Flores"
+      },
+      {
+        "accion": 962,
+        "nombre": "Mthias Lugo"
+      },
+      {
+        "accion": "0670",
+        "nombre": "Nelson Salazar"
+      },
+      {
+        "accion": 817,
+        "nombre": "Néstor López"
+      },
+      {
+        "accion": 1351,
+        "nombre": "Obdulia Kocic"
+      },
+      {
+        "accion": "0799",
+        "nombre": "Oscar León"
+      },
+      {
+        "accion": 1655,
+        "nombre": "Pablo Tovar"
+      },
+      {
+        "accion": null,
+        "nombre": "Pedro Clavel"
+      },
+      {
+        "accion": 1408,
+        "nombre": "Pedro Conde"
+      },
+      {
+        "accion": "1583",
+        "nombre": "Pedro Fraga"
+      },
+      {
+        "accion": 1378,
+        "nombre": "Phillips Rojas"
+      },
+      {
+        "accion": "V1186",
+        "nombre": "Rafael Páez"
+      },
+      {
+        "accion": 682,
+        "nombre": "Rafael Rodriguez"
+      },
+      {
+        "accion": 749,
+        "nombre": "Raul Riera"
+      },
+      {
+        "accion": 846,
+        "nombre": "⁠Rebeca Rodriguez"
+      },
+      {
+        "accion": 1102,
+        "nombre": "Roberto Fuentes"
+      },
+      {
+        "accion": 1018,
+        "nombre": "Rosana Mendoza"
+      },
+      {
+        "accion": 805,
+        "nombre": "Santiago Garcia"
+      },
+      {
+        "accion": "0050",
+        "nombre": "Santiago Martí"
+      },
+      {
+        "accion": 88,
+        "nombre": "Saul Aquino"
+      },
+      {
+        "accion": 605,
+        "nombre": "Solon Zambrano"
+      },
+      {
+        "accion": 405,
+        "nombre": "Valeria Meza"
+      },
+      {
+        "accion": 1513,
+        "nombre": "Valeria Souto"
+      },
+      {
+        "accion": null,
+        "nombre": "Victor Hugo Colmenares"
+      },
+      {
+        "accion": "0086",
+        "nombre": "Vladimir Solovey"
+      },
+      {
+        "accion": 1760,
+        "nombre": "Yolvan Zambrano"
+      }
+    ]
+  },
+  {
+    "team_id": 6,
+    "color": "Rojo",
+    "captain": "Franklin Calles",
+    "members": [
+      {
+        "accion": 520,
+        "nombre": "Adolfo Del Pino Perez"
+      },
+      {
+        "accion": 1849,
+        "nombre": "Adriana Garay"
+      },
+      {
+        "accion": "0818",
+        "nombre": "Alberto Hernandez"
+      },
+      {
+        "accion": null,
+        "nombre": "Alejandra Montilla"
+      },
+      {
+        "accion": null,
+        "nombre": "Alexander Pacheco "
+      },
+      {
+        "accion": 1409,
+        "nombre": "Alisabel Muñoz"
+      },
+      {
+        "accion": 165,
+        "nombre": "Alvany Padrón"
+      },
+      {
+        "accion": 1523,
+        "nombre": "Alvaro Londoño"
+      },
+      {
+        "accion": 1150,
+        "nombre": "Ándres Machado"
+      },
+      {
+        "accion": "1668 ",
+        "nombre": "Andres Mikelson"
+      },
+      {
+        "accion": 14,
+        "nombre": "Argenis Quiva"
+      },
+      {
+        "accion": 385,
+        "nombre": "Astrid Cortes"
+      },
+      {
+        "accion": "1881 ",
+        "nombre": "Aymara Herrera"
+      },
+      {
+        "accion": 235,
+        "nombre": "Carlos Castellanos"
+      },
+      {
+        "accion": 1281,
+        "nombre": "Carlos Cedeño"
+      },
+      {
+        "accion": 1825,
+        "nombre": "Carlos Montilla"
+      },
+      {
+        "accion": null,
+        "nombre": "Celeste Abreu"
+      },
+      {
+        "accion": "1944",
+        "nombre": "Corina Gonzalez"
+      },
+      {
+        "accion": 1910,
+        "nombre": "Daniel Hidalgo"
+      },
+      {
+        "accion": 803,
+        "nombre": "Daniel Rollingson "
+      },
+      {
+        "accion": 1187,
+        "nombre": "Darsi Mendieta"
+      },
+      {
+        "accion": 413,
+        "nombre": "Diego Richani"
+      },
+      {
+        "accion": 1700,
+        "nombre": "Eduardo Lesseur"
+      },
+      {
+        "accion": 1306,
+        "nombre": "Elio Gutierrez"
+      },
+      {
+        "accion": 958,
+        "nombre": "Enio Arocha"
+      },
+      {
+        "accion": 1882,
+        "nombre": "Enver Goicochea"
+      },
+      {
+        "accion": 752,
+        "nombre": "Erika Jimenez"
+      },
+      {
+        "accion": 565,
+        "nombre": "Ezequiel Zamora"
+      },
+      {
+        "accion": "0090",
+        "nombre": "Fabiola Armas"
+      },
+      {
+        "accion": 531,
+        "nombre": "Fernando Alvarez"
+      },
+      {
+        "accion": 651,
+        "nombre": "Franklin Calles"
+      },
+      {
+        "accion": 1352,
+        "nombre": "Franklin Diaz"
+      },
+      {
+        "accion": "0384",
+        "nombre": "Freddy Brito"
+      },
+      {
+        "accion": 1713,
+        "nombre": "Gaidy Vera"
+      },
+      {
+        "accion": 705,
+        "nombre": "German Ibarra"
+      },
+      {
+        "accion": 1466,
+        "nombre": "Gianni Damasio"
+      },
+      {
+        "accion": 1192,
+        "nombre": "Hector Andres Ortiz"
+      },
+      {
+        "accion": 1664,
+        "nombre": "Helena Garcia"
+      },
+      {
+        "accion": 1570,
+        "nombre": "Ian Hernandez"
+      },
+      {
+        "accion": 1850,
+        "nombre": "Igonne Torrentgeneros"
+      },
+      {
+        "accion": 1119,
+        "nombre": "Ingrid Medina"
+      },
+      {
+        "accion": 176,
+        "nombre": "Isabella Arenas"
+      },
+      {
+        "accion": 1728,
+        "nombre": "Isabella Del Giaccio"
+      },
+      {
+        "accion": 817,
+        "nombre": "Isabella Lopez"
+      },
+      {
+        "accion": 1917,
+        "nombre": "Israel Rengel"
+      },
+      {
+        "accion": 1331,
+        "nombre": "Jeremy Natera "
+      },
+      {
+        "accion": "V0004",
+        "nombre": "Jesús Medina"
+      },
+      {
+        "accion": 1380,
+        "nombre": "Jesus Ochoa"
+      },
+      {
+        "accion": 1041,
+        "nombre": "Jesus Paris"
+      },
+      {
+        "accion": 678,
+        "nombre": "Joanel Cuicas"
+      },
+      {
+        "accion": null,
+        "nombre": "Jonathan Gil "
+      },
+      {
+        "accion": "1909",
+        "nombre": "Jose Crespo"
+      },
+      {
+        "accion": 378,
+        "nombre": "Jose Francisco Tabares"
+      },
+      {
+        "accion": 1470,
+        "nombre": "Jose Ochoa"
+      },
+      {
+        "accion": 1955,
+        "nombre": "Juan Carlos Laine "
+      },
+      {
+        "accion": 532,
+        "nombre": "Juan Morales"
+      },
+      {
+        "accion": 532,
+        "nombre": "Juan Morales"
+      },
+      {
+        "accion": 1655,
+        "nombre": "Juan Pablo Tovar"
+      },
+      {
+        "accion": 241,
+        "nombre": "Julio Reyes"
+      },
+      {
+        "accion": 1611,
+        "nombre": "Karla Torres"
+      },
+      {
+        "accion": 76,
+        "nombre": "Leni Xiomara Pacheco"
+      },
+      {
+        "accion": 1043,
+        "nombre": "Liumir Gómez"
+      },
+      {
+        "accion": 235,
+        "nombre": "Luis Castellanos"
+      },
+      {
+        "accion": 892,
+        "nombre": "Luis Eduardo Bolivar"
+      },
+      {
+        "accion": "0050",
+        "nombre": "Luis Martí"
+      },
+      {
+        "accion": 852,
+        "nombre": "Luis Osio"
+      },
+      {
+        "accion": "0367",
+        "nombre": "Manuel Castellanos"
+      },
+      {
+        "accion": 1191,
+        "nombre": "Manuel Hernendez"
+      },
+      {
+        "accion": 962,
+        "nombre": "Maria Del Valle"
+      },
+      {
+        "accion": 1825,
+        "nombre": "Maria Ledezma de Montilla"
+      },
+      {
+        "accion": 717,
+        "nombre": "Mariangel Castillo"
+      },
+      {
+        "accion": 418,
+        "nombre": "Matias Galindo"
+      },
+      {
+        "accion": 622,
+        "nombre": "Mauricio Torres"
+      },
+      {
+        "accion": 734,
+        "nombre": "Merelis Casanova"
+      },
+      {
+        "accion": 1495,
+        "nombre": "Miguel Calles"
+      },
+      {
+        "accion": 1634,
+        "nombre": "Miguel Patiño"
+      },
+      {
+        "accion": 514,
+        "nombre": "Mileidys Gelves"
+      },
+      {
+        "accion": 390,
+        "nombre": "Milena Morales"
+      },
+      {
+        "accion": 1495,
+        "nombre": "Onirme Calles"
+      },
+      {
+        "accion": 17,
+        "nombre": "Oscar Castillo"
+      },
+      {
+        "accion": 17,
+        "nombre": "Oscar Castillo Jr."
+      },
+      {
+        "accion": 1605,
+        "nombre": "Oscar Martín"
+      },
+      {
+        "accion": 834,
+        "nombre": "Pablo Meza"
+      },
+      {
+        "accion": 1898,
+        "nombre": "Patricia Valencia"
+      },
+      {
+        "accion": 779,
+        "nombre": "Paul Padilla"
+      },
+      {
+        "accion": "V1250",
+        "nombre": "Paula Sanchez"
+      },
+      {
+        "accion": "0418",
+        "nombre": "Rafael Alfano"
+      },
+      {
+        "accion": 79,
+        "nombre": "Rafael Barcanegras"
+      },
+      {
+        "accion": "1426",
+        "nombre": "Rafael Tovar"
+      },
+      {
+        "accion": 351,
+        "nombre": "Rafaela Cedeño"
+      },
+      {
+        "accion": 898,
+        "nombre": "Ramon Arias"
+      },
+      {
+        "accion": 1870,
+        "nombre": "Rebecca Chirinos"
+      },
+      {
+        "accion": 1707,
+        "nombre": "Ricardo Carmona"
+      },
+      {
+        "accion": 1108,
+        "nombre": "Roger Soto"
+      },
+      {
+        "accion": "1109",
+        "nombre": "Roland Contrera"
+      },
+      {
+        "accion": 1043,
+        "nombre": "Rolando Montero"
+      },
+      {
+        "accion": 1664,
+        "nombre": "Rommel Garcia"
+      },
+      {
+        "accion": 1585,
+        "nombre": "Sebastian Arrieche"
+      },
+      {
+        "accion": 1830,
+        "nombre": "Sofia Carolina Carreño"
+      },
+      {
+        "accion": 421,
+        "nombre": "Sofia Piñero"
+      },
+      {
+        "accion": 1981,
+        "nombre": "Valentina Barcasnegras"
+      },
+      {
+        "accion": 1026,
+        "nombre": "Valentina Márquez"
+      },
+      {
+        "accion": "1913",
+        "nombre": "Victor Moreu"
+      },
+      {
+        "accion": 651,
+        "nombre": "Virginia Rodriguez"
+      },
+      {
+        "accion": 965,
+        "nombre": "Wilmer Marquez"
+      },
+      {
+        "accion": 1666,
+        "nombre": "Xiomara Tovar"
+      }
+    ]
+  }
+]
