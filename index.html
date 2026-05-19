@@ -6,194 +6,232 @@
   <title>Buscador de Integrantes</title>
 
   <style>
+
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+    }
+
     body{
-      font-family: Arial;
-      background:#f5f5f5;
-      padding:40px;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to bottom, #f5f5f5, #ececec);
+      min-height:100vh;
+      padding:40px 20px;
+      color:#111827;
     }
 
-    h1{
+    .container{
+      max-width:1000px;
+      margin:auto;
+    }
+
+    .header{
       text-align:center;
+      margin-bottom:40px;
     }
 
-    input{
-      width:100%;
-      padding:15px;
-      font-size:18px;
+    .logo{
+      width:240px;
+      max-width:100%;
       margin-bottom:20px;
-      border-radius:10px;
-      border:1px solid #ccc;
+      filter: drop-shadow(0 10px 15px rgba(0,0,0,0.15));
+    }
+
+    .title{
+      font-size:64px;
+      font-weight:800;
+      margin-bottom:12px;
+    }
+
+    .subtitle{
+      color:#6b7280;
+      font-size:26px;
+    }
+
+    .search-container{
+      margin-bottom:35px;
+    }
+
+    .search-input{
+      width:100%;
+      border:none;
+      outline:none;
+      background:white;
+      padding:24px 28px;
+      font-size:24px;
+      border-radius:22px;
+      box-shadow:0 8px 20px rgba(0,0,0,0.08);
+      transition:0.2s;
+    }
+
+    .search-input:focus{
+      transform:scale(1.01);
+      box-shadow:0 10px 25px rgba(0,0,0,0.12);
+    }
+
+    .results{
+      display:flex;
+      flex-direction:column;
+      gap:24px;
     }
 
     .card{
       background:white;
-      padding:20px;
-      border-radius:12px;
-      margin-bottom:15px;
-      box-shadow:0 2px 5px rgba(0,0,0,0.1);
+      border-radius:24px;
+      padding:28px;
+      display:flex;
+      align-items:center;
+      gap:24px;
+      box-shadow:0 8px 20px rgba(0,0,0,0.08);
+      transition:0.2s;
     }
 
+    .card:hover{
+      transform:translateY(-4px);
+    }
 
-    body{
-  font-family: Arial, sans-serif;
-  background: linear-gradient(to bottom, #f4f4f4, #e9e9e9);
-  margin:0;
-  padding:40px 20px;
-  color:#222;
-}
+    .avatar{
+      width:78px;
+      height:78px;
+      border-radius:50%;
+      flex-shrink:0;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:white;
+      font-size:32px;
+      font-weight:bold;
+    }
 
-.container{
-  max-width:900px;
-  margin:auto;
-}
+    .card-content{
+      flex:1;
+    }
 
-.header{
-  text-align:center;
-  margin-bottom:35px;
-}
+    .name{
+      font-size:36px;
+      font-weight:700;
+      margin-bottom:18px;
+    }
 
-.logo{
-  width:220px;
-  max-width:100%;
-  margin-bottom:15px;
-}
+    .info{
+      display:flex;
+      flex-wrap:wrap;
+      gap:16px;
+      font-size:22px;
+      color:#374151;
+    }
 
-.title{
-  font-size:56px;
-  font-weight:bold;
-  margin:0;
-  color:#111827;
-}
+    .badge{
+      padding:10px 18px;
+      border-radius:14px;
+      color:white;
+      font-weight:bold;
+    }
 
-.subtitle{
-  font-size:24px;
-  color:#6b7280;
-  margin-top:10px;
-}
+    .azul{
+      background:#2563eb;
+    }
 
-.search-box{
-  margin-bottom:35px;
-}
+    .verde{
+      background:#16a34a;
+    }
 
-.search-input{
-  width:100%;
-  padding:22px 25px;
-  font-size:24px;
-  border:none;
-  border-radius:18px;
-  background:white;
-  box-shadow:0 4px 14px rgba(0,0,0,0.08);
-  outline:none;
-  transition:0.2s;
-}
+    .rojo{
+      background:#dc2626;
+    }
 
-.search-input:focus{
-  transform:scale(1.01);
-  box-shadow:0 6px 18px rgba(0,0,0,0.12);
-}
+    .amarillo{
+      background:#facc15;
+      color:black;
+    }
 
-.card{
-  background:white;
-  border-radius:22px;
-  padding:28px;
-  margin-bottom:22px;
-  box-shadow:0 6px 18px rgba(0,0,0,0.08);
-  transition:0.2s;
-}
+    .rosado{
+      background:#ec4899;
+    }
 
-.card:hover{
-  transform:translateY(-3px);
-}
+    .naranja{
+      background:#f97316;
+    }
 
-.name{
-  font-size:34px;
-  font-weight:bold;
-  margin-bottom:18px;
-}
+    .footer{
+      margin-top:50px;
+      text-align:center;
+      color:#6b7280;
+      font-size:18px;
+    }
 
-.info{
-  display:flex;
-  flex-wrap:wrap;
-  gap:20px;
-  font-size:22px;
-}
+    @media(max-width:768px){
 
-.badge{
-  padding:10px 18px;
-  border-radius:12px;
-  font-weight:bold;
-  color:white;
-}
+      .title{
+        font-size:42px;
+      }
 
-.azul{
-  background:#2563eb;
-}
+      .subtitle{
+        font-size:20px;
+      }
 
-.verde{
-  background:#16a34a;
-}
+      .card{
+        flex-direction:column;
+        text-align:center;
+      }
 
-.rojo{
-  background:#dc2626;
-}
+      .name{
+        font-size:28px;
+      }
 
-.amarillo{
-  background:#eab308;
-  color:black;
-}
+      .info{
+        flex-direction:column;
+        font-size:18px;
+      }
 
-.rosado{
-  background:#ec4899;
-}
+      .search-input{
+        font-size:20px;
+        padding:18px;
+      }
 
-.naranja{
-  background:#f97316;
-}
+    }
 
-.footer{
-  text-align:center;
-  margin-top:50px;
-  color:#6b7280;
-  font-size:18px;
-}
-
-@media(max-width:768px){
-
-  .title{
-    font-size:38px;
-  }
-
-  .subtitle{
-    font-size:20px;
-  }
-
-  .search-input{
-    font-size:20px;
-    padding:18px;
-  }
-
-  .name{
-    font-size:28px;
-  }
-
-  .info{
-    font-size:18px;
-    flex-direction:column;
-    gap:12px;
-  }
-
-}
   </style>
 </head>
 <body>
 
-<h1>Buscador de Integrantes</h1>
+<div class="container">
 
-<input type="text" id="search" placeholder="Buscar por nombre o acción">
+  <div class="header">
 
-<div id="results"></div>
+    <img src="logo.png" class="logo" alt="Logo">
+
+    <h1 class="title">Buscador de Integrantes</h1>
+
+    <p class="subtitle">
+      Busca por nombre o número de acción
+    </p>
+
+  </div>
+
+  <div class="search-container">
+
+    <input 
+      type="text" 
+      id="search" 
+      class="search-input"
+      placeholder="Buscar por nombre o acción..."
+    >
+
+  </div>
+
+  <div id="results" class="results"></div>
+
+  <div class="footer">
+    Hogar Hispano de Valencia<br>
+    Todos los derechos reservados.
+  </div>
+
+</div>
 
 <script>
+
 fetch('equipos_colores_capitanes_con_accion.json')
   .then(res => res.json())
   .then(data => {
@@ -201,32 +239,88 @@ fetch('equipos_colores_capitanes_con_accion.json')
     const allMembers = [];
 
     data.forEach(team => {
+
       team.members.forEach(member => {
+
         allMembers.push({
           nombre: member.nombre,
           accion: member.accion,
           color: team.color,
           captain: team.captain
         });
+
       });
+
     });
 
     const searchInput = document.getElementById('search');
     const results = document.getElementById('results');
 
+    function getColorClass(color){
+
+      const map = {
+        'Azul':'azul',
+        'Verde':'verde',
+        'Rojo':'rojo',
+        'Amarillo':'amarillo',
+        'Rosado':'rosado',
+        'Naranja':'naranja'
+      };
+
+      return map[color] || 'azul';
+
+    }
+
     function render(list){
+
       results.innerHTML = '';
 
       list.forEach(person => {
+
+        const colorClass = getColorClass(person.color);
+
         results.innerHTML += `
+
           <div class="card">
-            <h3>${person.nombre}</h3>
-            <p><strong>Acción:</strong> ${person.accion ?? 'N/A'}</p>
-            <p><strong>Equipo:</strong> ${person.color}</p>
-            <p><strong>Capitán:</strong> ${person.captain}</p>
+
+            <div class="avatar ${colorClass}">
+              👤
+            </div>
+
+            <div class="card-content">
+
+              <div class="name">
+                ${person.nombre}
+              </div>
+
+              <div class="info">
+
+                <div>
+                  <strong>Acción:</strong>
+                  ${person.accion || 'N/A'}
+                </div>
+
+                <div>
+                  <span class="badge ${colorClass}">
+                    ${person.color}
+                  </span>
+                </div>
+
+                <div>
+                  <strong>Capitán:</strong>
+                  ${person.captain}
+                </div>
+
+              </div>
+
+            </div>
+
           </div>
+
         `;
+
       });
+
     }
 
     render(allMembers);
@@ -236,13 +330,25 @@ fetch('equipos_colores_capitanes_con_accion.json')
       const value = e.target.value.toLowerCase();
 
       const filtered = allMembers.filter(person =>
-        String(person.nombre).toLowerCase().includes(value) ||
-        String(person.accion).includes(value)
+
+        String(person.nombre)
+          .toLowerCase()
+          .includes(value)
+
+        ||
+
+        String(person.accion)
+          .toLowerCase()
+          .includes(value)
+
       );
 
       render(filtered);
+
     });
+
   });
+
 </script>
 
 </body>
