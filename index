@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Buscador de Integrantes</title>
+
+  <style>
+    body{
+      font-family: Arial;
+      background:#f5f5f5;
+      padding:40px;
+    }
+
+    h1{
+      text-align:center;
+    }
+
+    input{
+      width:100%;
+      padding:15px;
+      font-size:18px;
+      margin-bottom:20px;
+      border-radius:10px;
+      border:1px solid #ccc;
+    }
+
+    .card{
+      background:white;
+      padding:20px;
+      border-radius:12px;
+      margin-bottom:15px;
+      box-shadow:0 2px 5px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+
+<h1>Buscador de Integrantes</h1>
+
+<input type="text" id="search" placeholder="Buscar por nombre o acción">
+
+<div id="results"></div>
+
+<script>
+fetch('equipos_colores_capitanes_con_accion.json')
+  .then(res => res.json())
+  .then(data => {
+
+    const allMembers = [];
+
+    data.forEach(team => {
+      team.members.forEach(member => {
+        allMembers.push({
+          nombre: member.nombre,
+          accion: member.accion,
+          color: team.color,
+          captain: team.captain
+        });
+      });
+    });
+
+    const searchInput = document.getElementById('search');
+    const results = document.getElementById('results');
+
+    function render(list){
+      results.innerHTML = '';
+
+      list.forEach(person => {
+        results.innerHTML += `
+          <div class="card">
+            <h3>${person.nombre}</h3>
+            <p><strong>Acción:</strong> ${person.accion ?? 'N/A'}</p>
+            <p><strong>Equipo:</strong> ${person.color}</p>
+            <p><strong>Capitán:</strong> ${person.captain}</p>
+          </div>
+        `;
+      });
+    }
+
+    render(allMembers);
+
+    searchInput.addEventListener('input', e => {
+
+      const value = e.target.value.toLowerCase();
+
+      const filtered = allMembers.filter(person =>
+        String(person.nombre).toLowerCase().includes(value) ||
+        String(person.accion).includes(value)
+      );
+
+      render(filtered);
+    });
+  });
+</script>
+
+</body>
+</html>
