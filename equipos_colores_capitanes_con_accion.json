@@ -1366,7 +1366,7 @@
   },
   {
     "team_id": 4,
-    "color": "Fucsia",
+    "color": "Rojo",
     "captain": "Manuel Quero",
     "members": [
       {
@@ -1797,7 +1797,7 @@
   },
   {
     "team_id": 5,
-    "color": "Naranja",
+    "color": "Anaranjado",
     "captain": "Jose Miguel Moreu",
     "members": [
       {
@@ -2228,7 +2228,7 @@
   },
   {
     "team_id": 6,
-    "color": "Rojo",
+    "color": "Vinotinto",
     "captain": "Franklin Calles",
     "members": [
       {
