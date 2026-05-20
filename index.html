@@ -255,7 +255,9 @@ fetch('equipos_colores_capitanes_con_accion.json')
 
     const searchInput = document.getElementById('search');
     const results = document.getElementById('results');
-
+    
+    searchInput.value = '';
+    
     function getColorClass(color){
 
       const map = {
