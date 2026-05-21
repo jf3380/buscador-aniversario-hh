@@ -6,7 +6,6 @@
   <title>Buscador de Integrantes</title>
 
   <style>
-
     *{
       margin:0;
       padding:0;
@@ -129,30 +128,12 @@
       font-weight:bold;
     }
 
-    .azul{
-      background:#2563eb;
-    }
-
-    .verde{
-      background:#16a34a;
-    }
-
-    .rojo{
-      background:#dc2626;
-    }
-
-    .amarillo{
-      background:#facc15;
-      color:black;
-    }
-
-    .vinotinto{
-      background:#5e2129;
-    }
-
-    .naranja{
-      background:#f97316;
-    }
+    .azul{ background:#2563eb; }
+    .verde{ background:#16a34a; }
+    .rojo{ background:#dc2626; }
+    .amarillo{ background:#facc15; color:black; }
+    .vinotinto{ background:#5e2129; }
+    .naranja{ background:#f97316; }
 
     .footer{
       margin-top:50px;
@@ -162,63 +143,31 @@
     }
 
     @media(max-width:768px){
-
-      .title{
-        font-size:42px;
-      }
-
-      .subtitle{
-        font-size:20px;
-      }
-
-      .card{
-        flex-direction:column;
-        text-align:center;
-      }
-
-      .name{
-        font-size:28px;
-      }
-
-      .info{
-        flex-direction:column;
-        font-size:18px;
-      }
-
-      .search-input{
-        font-size:20px;
-        padding:18px;
-      }
-
+      .title{ font-size:42px; }
+      .subtitle{ font-size:20px; }
+      .card{ flex-direction:column; text-align:center; }
+      .name{ font-size:28px; }
+      .info{ flex-direction:column; font-size:18px; }
+      .search-input{ font-size:20px; padding:18px; }
     }
-
   </style>
 </head>
 <body>
 
 <div class="container">
-
   <div class="header">
-
     <img src="logo_hh.png" class="logo" alt="Logo">
-
     <h1 class="title">Buscador de Integrantes</h1>
-
-    <p class="subtitle">
-      Busca por nombre o número de acción
-    </p>
-
+    <p class="subtitle">Busca por nombre o número de acción</p>
   </div>
 
   <div class="search-container">
-
     <input 
       type="text" 
       id="search" 
       class="search-input"
       placeholder="Buscar por nombre o acción..."
     >
-
   </div>
 
   <div id="results" class="results"></div>
@@ -227,11 +176,9 @@
     Hogar Hispano de Valencia<br>
     Todos los derechos reservados.
   </div>
-
 </div>
 
 <script>
-
 fetch('equipos_colores_capitanes_con_accion.json')
   .then(res => res.json())
   .then(data => {
@@ -239,18 +186,15 @@ fetch('equipos_colores_capitanes_con_accion.json')
     const allMembers = [];
 
     data.forEach(team => {
-
       team.members.forEach(member => {
-
         allMembers.push({
           nombre: member.nombre,
           accion: member.accion,
           color: team.color,
-          captain: team.captain
+          captain: team.captain,
+          captain_phone: team.captain_phone // 1. Guardamos el teléfono del capitán en la lista
         });
-
       });
-
     });
 
     const searchInput = document.getElementById('search');
@@ -259,44 +203,36 @@ fetch('equipos_colores_capitanes_con_accion.json')
     searchInput.value = '';
     
     function getColorClass(color){
-
       const map = {
         'Azul':'azul',
         'Verde':'verde',
         'Rojo':'rojo',
         'Amarillo':'amarillo',
         'Vinotinto':'vinotinto',
+        'Naranja':'naranja', // Actualizado a "Naranja" para coincidir con tu JSON más reciente
         'Anaranjado':'naranja'
       };
-
       return map[color] || 'azul';
-
     }
 
     function render(list){
-
       results.innerHTML = '';
 
       list.forEach(person => {
-
         const colorClass = getColorClass(person.color);
 
         results.innerHTML += `
-
           <div class="card">
-
             <div class="avatar ${colorClass}">
               👤
             </div>
 
             <div class="card-content">
-
               <div class="name">
                 ${person.nombre}
               </div>
 
               <div class="info">
-
                 <div>
                   <strong>Acción:</strong>
                   ${person.accion || 'N/A'}
@@ -310,46 +246,29 @@ fetch('equipos_colores_capitanes_con_accion.json')
 
                 <div>
                   <strong>Capitán:</strong>
-                  ${person.captain}
-                </div>
-
+                  ${person.captain} ${person.captain_phone ? `(${person.captain_phone})` : ''} 
+                  </div>
               </div>
-
             </div>
-
           </div>
-
         `;
-
       });
-
     }
 
     render(allMembers);
 
     searchInput.addEventListener('input', e => {
-
       const value = e.target.value.toLowerCase();
 
       const filtered = allMembers.filter(person =>
-
-        String(person.nombre)
-          .toLowerCase()
-          .includes(value)
-
-        ||
-
-String(person.accion)
-  .toLowerCase()
-  .includes(value)
-
+        String(person.nombre).toLowerCase().includes(value) ||
+        String(person.accion).toLowerCase().includes(value)
       );
 
       render(filtered);
-
     });
-
   });
+
 window.addEventListener('load', () => {
   const searchInput = document.getElementById('search');
   searchInput.value = '';
